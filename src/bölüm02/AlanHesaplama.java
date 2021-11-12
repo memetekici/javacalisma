@@ -1,19 +1,19 @@
-package bölüm02;
+package b�l�m02;
 
 public class AlanHesaplama {
 	public static void main(String[]args) {
 		
-		double yarıcap;
+		double yar�cap;
 		double alan;
 		
 		//yarıcapı oku
-		yarıcap = 20;
+		yar�cap = 20;
 		
 		//alanı hesapla
-		alan = yarıcap * yarıcap *3.14159;
+		alan = yar�cap * yar�cap *3.14159;
 		
 		//alanı yazdır
-		System.out.println("yarıcapı " + yarıcap + " olan çemberin alanı:" + alan + " dır");
+		System.out.println("yarıcapı " + yar�cap + " olan çemberin alanı:" + alan + " dır");
 		
 		System.out.println("Gitub çalışmam için yolladığım ilk değişim");
 		System.out.println("Gitub çalışmam için yolladığım 2. değişim");
