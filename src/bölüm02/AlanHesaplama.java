@@ -24,6 +24,8 @@ public class AlanHesaplama {
 		
 		System.out.println("This is the first commit from memet master");
 		
+		System.out.println("This is my second commit from local memet");
+		
 		
 		
 		
