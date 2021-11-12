@@ -1,4 +1,4 @@
-package b�l�m02;
+package bölüm02;
 
 public class AlanHesaplama {
 	public static void main(String[]args) {
@@ -6,18 +6,18 @@ public class AlanHesaplama {
 		double yaricap;
 		double alan;
 		
-		//yarÄ±capÄ± oku
+		//yarÃ„Â±capÃ„Â± oku
 		yaricap = 20;
 		
-		//alanÄ± hesapla
+		//alanÃ„Â± hesapla
 		alan = yaricap * yaricap *3.14159;
 		
-		//alanÄ± yazdÄ±r
-		System.out.println("yarÄ±capÄ± " + yaricap + " olan Ã§emberin alanÄ±:" + alan + " dÄ±r");
+		//alanÃ„Â± yazdÃ„Â±r
+		System.out.println("yarÃ„Â±capÃ„Â± " + yaricap + " olan ÃƒÂ§emberin alanÃ„Â±:" + alan + " dÃ„Â±r");
 		
-		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m ilk deÄŸiÅŸim");
-		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m 2. deÄŸiÅŸim");
-		System.out.println("Gitub Ã§alÄ±ÅŸmam remote repodan yolladÄ±ÄŸÄ±m ilk commit ");
+		System.out.println("Gitub ÃƒÂ§alÃ„Â±Ã…Å¸mam iÃƒÂ§in yolladÃ„Â±Ã„Å¸Ã„Â±m ilk deÃ„Å¸iÃ…Å¸im");
+		System.out.println("Gitub ÃƒÂ§alÃ„Â±Ã…Å¸mam iÃƒÂ§in yolladÃ„Â±Ã„Å¸Ã„Â±m 2. deÃ„Å¸iÃ…Å¸im");
+		System.out.println("Gitub ÃƒÂ§alÃ„Â±Ã…Å¸mam remote repodan yolladÃ„Â±Ã„Å¸Ã„Â±m ilk commit ");
 		System.out.println("This is the second commit from local master");
 		
 		System.out.println("This is the third commit from local master");
@@ -26,6 +26,7 @@ public class AlanHesaplama {
 		
 		System.out.println("This is my second commit from local memet");
 		System.out.println("This is the third commit from local memet");
+		System.out.println("This is our conflict");
 		
 		
 		
