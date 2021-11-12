@@ -1,19 +1,19 @@
-package bölüm02;
+package b�l�m02;
 
 public class AlanHesaplama {
 	public static void main(String[]args) {
-		
-		double yarıcap;
+
+		double yaricap;
 		double alan;
 		
 		//yarÄ±capÄ± oku
-		yarıcap = 20;
+		yaricap = 20;
 		
 		//alanÄ± hesapla
-		alan = yarıcap * yarıcap *3.14159;
+		alan = yaricap * yaricap *3.14159;
 		
 		//alanÄ± yazdÄ±r
-		System.out.println("yarÄ±capÄ± " + yarıcap + " olan Ã§emberin alanÄ±:" + alan + " dÄ±r");
+		System.out.println("yarÄ±capÄ± " + yaricap + " olan Ã§emberin alanÄ±:" + alan + " dÄ±r");
 		
 		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m ilk deÄŸiÅŸim");
 		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m 2. deÄŸiÅŸim");
