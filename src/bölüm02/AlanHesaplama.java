@@ -18,6 +18,7 @@ public class AlanHesaplama {
 		System.out.println("Gitub çalışmam için yolladığım ilk değişim");
 		System.out.println("Gitub çalışmam için yolladığım 2. değişim");
 		System.out.println("Gitub çalışmam remote repodan yolladığım ilk commit ");
+		System.out.println("This is the second commit from local master");
 		
 
 	}
