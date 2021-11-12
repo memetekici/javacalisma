@@ -26,7 +26,11 @@ public class AlanHesaplama {
 		
 		System.out.println("This is my second commit from local memet");
 		System.out.println("This is the third commit from local memet");
+
+		System.out.println("This is my fourth commit from local memet");
+
 		System.out.println("This is our conflict");
+
 		
 		
 		
