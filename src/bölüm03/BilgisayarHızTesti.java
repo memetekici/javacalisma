@@ -1,4 +1,4 @@
-package Bölüm03;
+package bölüm03;
 
 public class BilgisayarHýzTesti {
 	public static void main(String[] args) {

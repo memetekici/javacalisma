@@ -1,4 +1,4 @@
-package Bölüm03;
+package bölüm03;
 import java.util.Scanner;
 
 public class toplamaArasýnavý {
