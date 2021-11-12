@@ -15,6 +15,8 @@ public class AlanHesaplama {
 		//alaný yazdýr
 		System.out.println("yarýcapý " + yarýcap + " olan çemberin alaný:" + alan + " dýr");
 		
+		System.out.println("Gitub çalýþmam için yolladýðým ilk deðiþim");
+		
 
 	}
 
