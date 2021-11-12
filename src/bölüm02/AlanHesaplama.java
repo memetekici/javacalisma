@@ -1,22 +1,23 @@
-package bölüm02;
+package bÃ¶lÃ¼m02;
 
 public class AlanHesaplama {
 	public static void main(String[]args) {
 		
-		double yarıcap;
+		double yarÄ±cap;
 		double alan;
 		
-		//yarıcapı oku
-		yarıcap = 20;
+		//yarÄ±capÄ± oku
+		yarÄ±cap = 20;
 		
-		//alanı hesapla
-		alan = yarıcap * yarıcap *3.14159;
+		//alanÄ± hesapla
+		alan = yarÄ±cap * yarÄ±cap *3.14159;
 		
-		//alanı yazdır
-		System.out.println("yarıcapı " + yarıcap + " olan çemberin alanı:" + alan + " dır");
+		//alanÄ± yazdÄ±r
+		System.out.println("yarÄ±capÄ± " + yarÄ±cap + " olan Ã§emberin alanÄ±:" + alan + " dÄ±r");
 		
-		System.out.println("Gitub çalışmam için yolladığım ilk değişim");
-		System.out.println("Gitub çalışmam için yolladığım 2. değişim");
+		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m ilk deÄŸiÅŸim");
+		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m 2. deÄŸiÅŸim");
+		System.out.println("Gitub Ã§alÄ±ÅŸmam remote repodan yolladÄ±ÄŸÄ±m ilk commit ");
 		
 
 	}
