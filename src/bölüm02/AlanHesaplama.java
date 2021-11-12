@@ -1,24 +1,29 @@
-package b�l�m02;
+package bölüm02;
 
 public class AlanHesaplama {
 	public static void main(String[]args) {
 		
-		double yar�cap;
+		double yarıcap;
 		double alan;
 		
-		//yarıcapı oku
-		yar�cap = 20;
+		//yarÄ±capÄ± oku
+		yarıcap = 20;
 		
-		//alanı hesapla
-		alan = yar�cap * yar�cap *3.14159;
+		//alanÄ± hesapla
+		alan = yarıcap * yarıcap *3.14159;
 		
-		//alanı yazdır
-		System.out.println("yarıcapı " + yar�cap + " olan çemberin alanı:" + alan + " dır");
+		//alanÄ± yazdÄ±r
+		System.out.println("yarÄ±capÄ± " + yarıcap + " olan Ã§emberin alanÄ±:" + alan + " dÄ±r");
 		
-		System.out.println("Gitub çalışmam için yolladığım ilk değişim");
-		System.out.println("Gitub çalışmam için yolladığım 2. değişim");
-		System.out.println("Gitub çalışmam remote repodan yolladığım ilk commit ");
+		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m ilk deÄŸiÅŸim");
+		System.out.println("Gitub Ã§alÄ±ÅŸmam iÃ§in yolladÄ±ÄŸÄ±m 2. deÄŸiÅŸim");
+		System.out.println("Gitub Ã§alÄ±ÅŸmam remote repodan yolladÄ±ÄŸÄ±m ilk commit ");
 		System.out.println("This is the second commit from local master");
+		
+		System.out.println("This is the third commit from local master");
+		
+		
+		
 		
 
 	}
